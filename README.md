@@ -1,1 +1,1 @@
-### Fala aí! Eu sou o Rafael Pardim, muito prazer!
+### Olá! Muito prazer, Rafael Pardim!
