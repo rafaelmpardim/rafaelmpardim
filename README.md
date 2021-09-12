@@ -2,7 +2,7 @@
 
  <div style="display: inline_block">
   <a href="https://github.com/orafapardim">
-  <img display="inline-block" min-="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=orafapardim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img display="inline-block" min-height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=orafapardim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img display="inline-block" min-height="250em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafapardim&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
