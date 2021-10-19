@@ -1,11 +1,11 @@
 ### Olá! Muito prazer, Rafael Pardim!
 
- <div style="display: flex">
+ <div style="display: flex; justiify-content: center">
   <a href="https://github.com/orafapardim">
   <img display="block" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=orafapardim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img display="block" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafapardim&layout=compact&langs_count=16&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: flex; justify-content: center"><br>
   <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Logo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
