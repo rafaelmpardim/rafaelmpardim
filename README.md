@@ -15,15 +15,15 @@
   ## Redes Sociais
 
    <a href="mailto:orafapardim@gmail.com" target="_blank">
-    <img height="40" width="40" src="https://user-images.githubusercontent.com/83538547/138139642-ae96c6f9-7333-4919-ba6f-aff2e14e285a.png" target="_blank">
+    <img height="40" width="40" src="https://user-images.githubusercontent.com/83538547/138139642-ae96c6f9-7333-4919-ba6f-aff2e14e285a.png">
   </a>   
   <a href="https://instagram.com/orafapardim" target="_blank">
-    <img height="40" width="40" src="https://user-images.githubusercontent.com/83538547/138139005-55d107fb-071a-4e62-ab60-8d209d07c207.png" target="_blank">
+    <img height="40" width="40" src="https://user-images.githubusercontent.com/83538547/138139005-55d107fb-071a-4e62-ab60-8d209d07c207.png">
   </a>
   <a href="https://www.linkedin.com/in/rafaelpardim" target="_blank">
-    <img height="40" width="40" src="https://user-images.githubusercontent.com/83538547/138139474-4df80a61-b248-430e-a4bd-5b2a583eeb10.png" target="_blank">
+    <img height="40" width="40" src="https://user-images.githubusercontent.com/83538547/138139474-4df80a61-b248-430e-a4bd-5b2a583eeb10.png">
   </a>
   <a href="https://www.twitter.com/orafapardim" target="_blank">
-    <img height="40" width="40" src="https://user-images.githubusercontent.com/83538547/138139557-89335c0a-7ec1-4e30-927b-a3b817580791.png" target="_blank">
+    <img height="40" width="40" src="https://user-images.githubusercontent.com/83538547/138139557-89335c0a-7ec1-4e30-927b-a3b817580791.png">
   </a>
 </div>
