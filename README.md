@@ -1,8 +1,7 @@
   <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=orafapardim&color=blue" />
   </p>
-  <h1 align="left"> <img height="50" src="https://user-images.githubusercontent.com/83538547/139145339-8dde9442-1370-40f3-965b-702429febecd.png"> Prazer, Rafael Pardim!</h1>
-
+  <h1 align="left">Prazer, Rafael Pardim!</h1>
   <p align="center">
       <img width="400em" src="https://github-readme-stats.vercel.app/api?username=orafapardim&show_icons=true&theme=vision-friendly-dark" alt="orafapardim's stats"/>
       <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafapardim&layout=compact&theme=vision-friendly-dark" alt="orafapardim's stats"/>
