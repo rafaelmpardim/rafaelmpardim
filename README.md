@@ -2,11 +2,11 @@
     <img src="https://komarev.com/ghpvc/?username=orafapardim&color=blue" />
   </p>
   <h1 align="left"> <img height="50" src="https://user-images.githubusercontent.com/83538547/139145339-8dde9442-1370-40f3-965b-702429febecd.png"> Prazer, Rafael Pardim!</h1>
- 
-  <div align="center">
-    <img align="center" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=orafapardim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="center" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafapardim&layout=compact&langs_count=16&theme=dark"/>
-  </div>
+
+  <p align="center">
+      <img width="480em" src="https://github-readme-stats.vercel.app/api?username=orafapardim&show_icons=true&theme=vision-friendly-dark" alt="orafapardim's stats"/>
+      <img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafapardim&layout=compact&theme=vision-friendly-dark" alt="orafapardim's stats"/>
+  </p>
  
   ## 📱 Redes Sociais
   <img align="right" width="400em" src="https://github-readme-twitter-gazf.vercel.app/api?id=orafapardim&layout=wide&show_reply=off&show_retweet=off" />
