@@ -1,29 +1,33 @@
-<div align="center">
+  <p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=orafapardim&color=blue" />
+  </p>
+  <h1 align="left"> <img height="50" src="https://user-images.githubusercontent.com/83538547/139145339-8dde9442-1370-40f3-965b-702429febecd.png"> Prazer, Rafael Pardim!</h1>
  
-  ### Olá! Muito prazer, Rafael Pardim!
-  <a href="https://github.com/orafapardim">
-  <img display="block" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=orafapardim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img display="block" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafapardim&layout=compact&langs_count=16&theme=dark"/>
-    
-  ## Tecnologias
+  <div align="center">
+    <img align="center" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=orafapardim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img align="center" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafapardim&layout=compact&langs_count=16&theme=dark"/>
+  </div>
  
-  <img align="center" alt="Logo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Logo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Logo-JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Logo-Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
-   
-  ## Redes Sociais
-
-   <a href="mailto:orafapardim@gmail.com" target="_blank">
-    <img height="40" width="40" src="https://user-images.githubusercontent.com/83538547/138139642-ae96c6f9-7333-4919-ba6f-aff2e14e285a.png">
-  </a>   
-  <a href="https://instagram.com/orafapardim" target="_blank">
-    <img height="40" width="40" src="https://user-images.githubusercontent.com/83538547/138139005-55d107fb-071a-4e62-ab60-8d209d07c207.png">
+  ## 📱 Redes Sociais
+  <img align="right" width="400em" src="https://github-readme-twitter-gazf.vercel.app/api?id=orafapardim&layout=wide&show_reply=off&show_retweet=off" />
+  <a href="mailto:orafapardim@gmail.com" target="_blank">
+     <img height="30" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail">   
   </a>
-  <a href="https://www.linkedin.com/in/rafaelpardim" target="_blank">
-    <img height="40" width="40" src="https://user-images.githubusercontent.com/83538547/138139474-4df80a61-b248-430e-a4bd-5b2a583eeb10.png">
+  <a href="https://instagram.com/orafapardim" target="_blank">
+     <img height="30" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram">   
+  </a>
+  <a href="https://www.linkedin.com/in/orafapardim" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin"> 
   </a>
   <a href="https://www.twitter.com/orafapardim" target="_blank">
-    <img height="40" width="40" src="https://user-images.githubusercontent.com/83538547/138139557-89335c0a-7ec1-4e30-927b-a3b817580791.png">
+    <img height="30" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter"> 
   </a>
-</div>
+
+  ## ⚙️ Tecnologias
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
+  ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
+  ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
+   
