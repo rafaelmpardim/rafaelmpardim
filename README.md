@@ -11,16 +11,16 @@
   ## 📱 Redes Sociais
   <img align="right" width="400em" src="https://github-readme-twitter-gazf.vercel.app/api?id=orafapardim&layout=wide&show_reply=off&show_retweet=off" />
   <a href="mailto:orafapardim@gmail.com" target="_blank">
-     <img height="30" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail">   
+     <img height="25" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail">   
   </a>
   <a href="https://instagram.com/orafapardim" target="_blank">
-     <img height="30" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram">   
+     <img height="25" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram">   
   </a>
   <a href="https://www.linkedin.com/in/orafapardim" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin"> 
+    <img height="25" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin"> 
   </a>
   <a href="https://www.twitter.com/orafapardim" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter"> 
+    <img height="25" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter"> 
   </a>
 
   ## ⚙️ Tecnologias
