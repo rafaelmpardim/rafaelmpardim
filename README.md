@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=orafapardim&color=blue" />
   </p>
   
-  <a src="https://beacons.ai/orafapardim">
+  <a href="https://beacons.ai/orafapardim">
     <img src="https://user-images.githubusercontent.com/83538547/153226031-6e81c175-37bb-47d3-98a5-77395299a544.png" style="width: 100%">
   </a>
   
