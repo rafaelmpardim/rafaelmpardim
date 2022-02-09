@@ -1,15 +1,11 @@
-  <img src="https://user-images.githubusercontent.com/83538547/153226031-6e81c175-37bb-47d3-98a5-77395299a544.png" style="width: 100%">
-    
-  </img>
   <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=orafapardim&color=blue" />
   </p>
   
-  <p align="center">
-      <img width="400em" src="https://github-readme-stats.vercel.app/api?username=orafapardim&show_icons=true&theme=vision-friendly-dark" alt="orafapardim's stats"/>
-      <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafapardim&layout=compact&theme=vision-friendly-dark" alt="orafapardim's stats"/>
-  </p>
- 
+  <img src="https://user-images.githubusercontent.com/83538547/153226031-6e81c175-37bb-47d3-98a5-77395299a544.png" style="width: 100%">
+    
+  </img>
+  
   ## 📱 Redes Sociais
   <img align="right" width="400em" src="https://github-readme-twitter-gazf.vercel.app/api?id=orafapardim&layout=wide&show_reply=off&show_retweet=off" />
   <a href="mailto:orafapardim@gmail.com" target="_blank">
