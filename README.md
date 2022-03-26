@@ -11,7 +11,7 @@
   ## 📱 Redes Sociais
   <img align="right" width="400em" src="https://github-readme-twitter-gazf.vercel.app/api?id=orafapardim&layout=wide&show_reply=off&show_retweet=off" />
   
-  <a href="mailto:orafapardim@gmail.com" target="_blank">
+  <a href="mailto:rafael@madeincode.com.br" target="_blank">
      <img height="25" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail">   
   </a>
   <a href="https://instagram.com/orafapardim" target="_blank">
@@ -28,7 +28,5 @@
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
-  ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
   ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
    
