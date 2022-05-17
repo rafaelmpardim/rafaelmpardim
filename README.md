@@ -9,8 +9,6 @@
   </div>
   
   ## 📱 Redes Sociais
-  <img align="right" width="400em" src="https://github-readme-twitter-gazf.vercel.app/api?id=orafapardim&layout=wide&show_reply=off&show_retweet=off" />
-  
   <a href="mailto:rafael@madeincode.com.br" target="_blank">
      <img height="25" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail">   
   </a>
@@ -24,9 +22,7 @@
     <img height="25" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter"> 
   </a>
 
-  ## ⚙️ Tecnologias
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)&nbsp;
-   
+  ## Tecnologias
+  <div align="center"; width="100%";>
+    <img width="24.5%" src="https://user-images.githubusercontent.com/83538547/168896885-00da6483-0bcd-4253-9ed3-71d1b65f683a.png"/> <img width="24.5%" src="https://user-images.githubusercontent.com/83538547/168896881-34af8abe-3094-4321-9e5c-a3065e8dd413.png"/> <img width="24.5%" src="https://user-images.githubusercontent.com/83538547/168896872-a1c8a1a4-5034-4b66-964d-e36dd3cb5aad.png"/> <img width="24.5%" src="https://user-images.githubusercontent.com/83538547/168897680-8db0d4e1-8f6f-46bf-82ef-c25555886deb.png"/>
+  </div>
