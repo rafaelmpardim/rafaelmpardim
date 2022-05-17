@@ -24,5 +24,5 @@
 
   ## Tecnologias
   <div align="center"; width="100%";>
-    <img width="24.5%" src="https://user-images.githubusercontent.com/83538547/168899212-6eda9846-0b93-4e2a-b6d2-b6245a30ac94.svg"/> <img width="24.5%" src="https://user-images.githubusercontent.com/83538547/168896881-34af8abe-3094-4321-9e5c-a3065e8dd413.png"/> <img width="24.5%" src="https://user-images.githubusercontent.com/83538547/168896872-a1c8a1a4-5034-4b66-964d-e36dd3cb5aad.png"/> <img width="24.5%" src="https://user-images.githubusercontent.com/83538547/168897680-8db0d4e1-8f6f-46bf-82ef-c25555886deb.png"/>
+    <img width="24.5%" src="https://user-images.githubusercontent.com/83538547/168899505-2d2bc3dc-7daf-450c-bdeb-2e8cc1bee775.svg"/> <img width="24.5%" src="https://user-images.githubusercontent.com/83538547/168899552-8c93743e-82ca-4eb5-8456-ee14be6f11d5.svg"/> <img width="24.5%" src="https://user-images.githubusercontent.com/83538547/168899615-16c10bb6-64d8-49c7-bd2f-23610a6f0de2.svg"/> <img width="24.5%" src="https://user-images.githubusercontent.com/83538547/168899666-e52c4331-439b-4942-a18f-1b3a7fb0f9ab.svg"/>
   </div>
