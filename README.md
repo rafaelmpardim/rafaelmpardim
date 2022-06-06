@@ -4,6 +4,7 @@
     <h1>Rafael Pardim | Dev Front-end</h1>
     <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafapardim&layout=compact&langs_count=7&theme=dark">
   </div>
+  
   <div align="right">
     <a href="https://www.instagram.com/orafapardim" target="_blank">
       <img width="300px" src="./images/github-insta.svg"/>
@@ -14,4 +15,5 @@
     <a href="https://www.madeincode.com.br" target="_blank">
       <img width="300px" src="./images/github-madeincode.svg"/>
     </a>
+  
   </div>
