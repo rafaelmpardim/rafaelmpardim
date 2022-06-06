@@ -1,3 +1,5 @@
+  <img width="100%" src="./images/github-banner.svg">
+  
   <div align="left">
     <img align="left" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafapardim&layout=compact&langs_count=7&theme=dark">
   </div>
