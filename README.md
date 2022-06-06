@@ -1,4 +1,4 @@
-  <img align="left" width="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafapardim&layout=compact&langs_count=7&theme=dark">
+  <img align="left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafapardim&layout=compact&langs_count=7&theme=dark">
   
   <div align="right">
     <img width="200px" src="https://komarev.com/ghpvc/?username=orafapardim&color=blue">
