@@ -1,5 +1,4 @@
   <div align="left">
-    <img align="left" width="150px" src="https://komarev.com/ghpvc/?username=orafapardim&color=blue">
     <img align="left" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafapardim&layout=compact&langs_count=7&theme=dark">
   </div>
   <div align="right">
