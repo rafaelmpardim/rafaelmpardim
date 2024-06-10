@@ -10,8 +10,14 @@
     <a href="https://madeincode.com.br/start">
         <img width="280px" src="https://github.com/rafaelmpardim/rafaelmpardim/assets/83538547/7cc62f67-737c-4a24-a8d6-9afc870634df">
     </a>
-    <a href="https://madeincode.com.br/boost">
-        <img width="280px" src="https://github.com/rafaelmpardim/rafaelmpardim/assets/83538547/4482d8d9-2506-4304-812b-aa92d0eb732c">
+   
+  <div>
+      <p></p>
+      <p></p>
+    </div>
+    
+  <a href="https://madeincode.com.br/boost">
+      <img width="280px" src="https://github.com/rafaelmpardim/rafaelmpardim/assets/83538547/4482d8d9-2506-4304-812b-aa92d0eb732c">
     </a>
   </div>
 
